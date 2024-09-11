@@ -1,4 +1,3 @@
-# jenniebui.github.io
 # Data Scientist
 ### Education
 Public Health, Ph.D.
